@@ -1,6 +1,8 @@
 # artemis
 Artemis chart from youtube.com video
 
+Environment is an AWS EC2 t3.medium with minikube and helm installed
+
 Currently it doesn't run. 
 
 ```
